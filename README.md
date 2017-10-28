@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Im web designer who wanna create beautiful and responsive web site design
